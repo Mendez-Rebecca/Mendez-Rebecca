@@ -9,12 +9,11 @@
 
 - 📄 View my resume [https://docs.google.com/document/d/1vnMn3BvcW3PSCzE3cIqt50d0kieLvMlK99voIGZO15s/edit?usp=sharing](https://docs.google.com/document/d/1vnMn3BvcW3PSCzE3cIqt50d0kieLvMlK99voIGZO15s/edit?usp=sharing)
 
-- ⚡ Fun fact **I'm a dog mom of three 🐕 and cat mom of two 🐈**
+- ⚡ Fun fact: **I'm a dog mom of three 🐕 and cat mom of two 🐈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rebecca-mendez-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rebecca-mendez-dev/" height="30" width="40" /></a>
-<a href="https://discord.gg/rebecca_mendez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rebecca_mendez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
